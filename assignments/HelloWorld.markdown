@@ -1,6 +1,6 @@
-# Assignment 0
+# Hello world.
 
-This assignment will not be graded. It is meant to familiarize you
+This assignment will *not* be graded. It is meant to familiarize you
 with the online judge which will be used for programming assignments
 in this course.
 
