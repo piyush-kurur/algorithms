@@ -26,7 +26,9 @@ u v w
 
 where u and v are integers such that 0 <= u,v <= n - 1 and w is a
 double precision number. The above line means that there is an
-undirected edge between u to v of weight w.
+undirected edge between u to v of weight w. The edge list is
+terminated with an "end of file", i.e. in a Unix system this means
+that while typing you need to press `Control-D`
 
 For example the complete graph with 3 nodes each having weight 3.14
 would be given to the algorithm in the following format
