@@ -1,4 +1,4 @@
-# Minimum spanning tree: Deadline to be decided.
+# Minimum spanning tree: September 5 2014 (Friday).
 
 10 marks each
 
