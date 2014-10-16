@@ -51,9 +51,9 @@ augmentation paths should be selected carefully is given below.
 2 1 1
 ```
 
-There are 4 vertices numbered 0,1,2,3 of which 0 is the sourced and 3 is
-the sink (this is what the first two lines describe. The rest of the lines
-give the capacity in each direction.
+There are 4 vertices numbered 0,1,2,3 of which 0 is the source and 3
+is the sink (this is what the first two lines describe). The rest of
+the lines give the capacity in each direction.
 
 **Important**: If an edge is omitted, it just means the capacity in
   that direction is 0. In the above graph for example, the capacity in
