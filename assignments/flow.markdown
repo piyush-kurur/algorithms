@@ -1,4 +1,4 @@
-# Max-flow and related problems: November 2 (mid-night)
+# Max-flow and related problems: November 3, Monday (mid-night)
 
 Marks: 5 + 10 + 5
 
